@@ -1,2 +1,2 @@
 # MowerMan
-arcade type game i made.
+arcade type game i made using pygame..(very Simple)
